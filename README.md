@@ -108,3 +108,7 @@ Generating index.md summary file...
 Successfully generated 926 Markdown files.
 Files are in the 'ikawrakow__ik_llama.cpp' directory.
 ```
+
+### Results
+
+The results of this demo are available in the following repository: [ThomasBaruzier/ikawrakow-ik-llama.cpp-archive](https://github.com/ThomasBaruzier/ikawrakow-ik-llama.cpp-archive)
